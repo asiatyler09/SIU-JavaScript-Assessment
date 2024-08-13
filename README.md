@@ -4,10 +4,10 @@ Solve 3 problems in the `problems` folder. Test cases are provided in `index.js`
 
 ### Important
 Do not use any LLMs or AI assistance of any sort. 
-You may refer to the official JavaScript documentation [https://developer.mozilla.org/en-US/docs/Web/JavaScript] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
-This exercise is to determine your skills in solving problems and developing logic using JavaScript.
-Do not alter the file structure.
-To run a file in Node.js, open the terminal and enter the following command:
+- You may refer to the official JavaScript documentation [https://developer.mozilla.org/en-US/docs/Web/JavaScript] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
+- This exercise is to determine your skills in solving problems and developing logic using JavaScript.
+- Do not alter the file structure.
+- To run a file in Node.js, open the terminal and enter the following command:
 ```
    node [filename.js]
 ```
