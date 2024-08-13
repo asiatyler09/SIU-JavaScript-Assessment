@@ -7,13 +7,20 @@ Do not use any LLMs or AI assistance of any sort.
 You may refer to the official JavaScript documentation [https://developer.mozilla.org/en-US/docs/Web/JavaScript] or the official git documentation [https://git-scm.com/doc] but do not search the internet for solutions or help. 
 This exercise is to determine your skills in solving problems and developing logic using JavaScript.
 Do not alter the file structure.
+To run a file in Node.js, open the terminal and enter the following command:
+```
+   node [filename.js]
+```
 
 # Getting Started
 1. Ensure Node.js is installed on your device BEFORE BEGINNING ASSESSMENT. Use Fiserv Software Center for installation.
 2. Fork and clone this repo - no branches, no PRs
 3. Launch repo in your IDE of choice
 4. Run the index.js file by entering the following command in your terminal: 'node index.js'. You should see the following in your terminal output:
+```
+   $ node index.js
    Hello Assessment!
+```
 
 ## Problem 1 - Replace Spaces
 Write a function, replaceSpaces, that takes in two strings as an argument. The first string is a sentence with at least 1 space. The second string is a single character. The function should return the sentence, but with any space(s) replaced by the second argument.
