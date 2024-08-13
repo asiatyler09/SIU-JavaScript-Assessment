@@ -9,9 +9,10 @@ This exercise is to determine your skills in solving problems and developing log
 Do not alter the file structure.
 
 # Getting Started
-1. Fork and clone this repo - no branches, no PRs
-2. Launch repo in your IDE of choice
-3. Run the index.js file by entering the following command in your terminal: 'node index.js'. You should see the following in your terminal output:
+1. Ensure Node.js is installed on your device BEFORE BEGINNING ASSESSMENT. Use Fiserv Software Center for installation.
+2. Fork and clone this repo - no branches, no PRs
+3. Launch repo in your IDE of choice
+4. Run the index.js file by entering the following command in your terminal: 'node index.js'. You should see the following in your terminal output:
    Hello Assessment!
 
 ## Problem 1 - Replace Spaces
