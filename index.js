@@ -1,14 +1,14 @@
-console.log('Hello Assessment!');
+//console.log('Hello Assessment!');
 
-// import replaceSpaces from './problems/pb1';
+import replaceSpaces from './problems/pb1';
 // import mostFrequentChar from './problems/pb2';
 // import compress from './problems/pb3';
 
 // TEST CASES
 
 // Problem 1
-// replaceSpaces('Today is a good day', '-'); // -> 'Today-is-a-good-day'
-// replaceSpaces('Tomorrow will be a great day', '_'); // -> 'Tomorrow_will_be_a_Great_Day'
+replaceSpaces('Today is a good day', '-'); // -> 'Today-is-a-good-day'
+replaceSpaces('Tomorrow will be a great day', '_'); // -> 'Tomorrow_will_be_a_Great_Day'
 
 // Problem 2
 // mostFrequentChar('bookeeper'); // -> 'e'

@@ -1,5 +1,8 @@
 // declare and define function here
 
+function mostFrequentChar(str){
+    for (let i = 0; 1 < str.length; i++);
+} 
 
 // test cases
 // mostFrequentChar('bookeeper'); // -> 'e'
